@@ -1,0 +1,35 @@
+.card{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    border-radius: 5px;
+}
+
+body{
+    overflow: hidden;
+    background-color: #0693e3;
+}
+
+.t1{
+    text-decoration: none;
+}
+
+.t2{
+    font-size: 30px; 
+    color: black;
+    font-family: 'Roboto Black', sans-serif;
+    font-weight: bolder;
+}
+
+#togglePassword {
+    cursor: pointer;
+    color: #76abd8;
+    font-size: 1.25rem;
+    transition: transform 0.3s ease-in-out;
+}
+
+#togglePassword:hover {
+    transform: scale(1.1);
+}
+
+
+
+
