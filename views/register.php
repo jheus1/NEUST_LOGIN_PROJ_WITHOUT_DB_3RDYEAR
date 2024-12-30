@@ -24,7 +24,7 @@
                            <input type="email" name="email" placeholder="Enter email" class="form-control border border-info" required>
                         </div>
 
-                        <div class="input-group mb-3">
+                        <div class="input-group">
                            <input type="password" name="password" id="password" class="form-control border border-info" placeholder="Enter password" name="user_password_new" pattern=".{6,}" required autofocus>
                            <i class="btn btn-outline-info btn btn-light bi bi-eye-slash" id="togglePassword"></i>
                         </div>
